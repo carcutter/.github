@@ -1,0 +1,29 @@
+# Description
+
+Provide a description of the issue, and why it is relevant to this repository.
+
+## Context
+
+Povide a detailed introduction.
+
+## Process
+
+1. Provide a description of the,
+2. steps that lead up to the issue,
+3. such that it can be reproduced.
+
+## Expected result
+
+Describe the expected result after having taken the steps above.
+
+## Current result
+
+Desribe the current result, that is differs from the expected result.
+
+## Possible fix
+
+Optional; suggested solution to the issue.
+
+## Additional information
+
+Provide screenshots, logs, etc. if applicable.
